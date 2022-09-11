@@ -1,7 +1,9 @@
 # BWAPI Revamped: Play vs smarter AI
-![BR](https://preview.redd.it/awj4rlb2hu881.png?width=315&format=png&auto=webp&s=45ba07acb12df97cb22c45473f8fa35f5ee7fd23)
+<p align="center">
+<img src="https://preview.redd.it/awj4rlb2hu881.png?width=315&format=png&auto=webp&s=45ba07acb12df97cb22c45473f8fa35f5ee7fd23"></p>
 <!-- ![BR2](https://preview.redd.it/fzjosx9l38481.png?width=1057&format=png&auto=webp&s=0dcf5bf3153e0db292e371e7fbbf1fa82814d8fa) -->
 <!-- ![BR3](https://preview.redd.it/747us4wm38481.png?width=650&format=png&auto=webp&s=169b4dc2a730b2a34d28db120c1ee782261c75f5) -->
+
 # Intro: :parachute:
 We’re going to talk about BWAPI AI, or as I prefer to call it UDAI (User-Defined AI). Ever wanted to practice vs tough AI offline ? have Internet problems ? want to watch UDAI kill UDAI ? or UDAI kill 1 or 2 built-in AI ? or UDAI kill you :skull: :joy: ? want to see a new world of StarCraft from above ?
 
