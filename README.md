@@ -13,7 +13,7 @@ BWAPI was very hard to configure before **`Revamped`**, many people were having 
 If you’re a player/developer, BWAPI Revamped should give you a comprehensive idea of what BWAPI can do, it has alot of amazing features which **`adds more fun & fun-ctionality not in the pain-in-the-nick normal setup of BWAPI`** (please note that BWAPI.dll itself is the same in the normal setup as in Revamped, think of Revamped as an IDE that integrates a lot of things in 1 and removes all the clutter/confusing things, like 5 in 1 product that makes our life much easier).
 
 # So, what BWAPI/Revamped allows us to do: :rocket:
-- Practice vs tough AI offline in an easy, automated way.
+- Practice vs smart/tough AI offline in an easy, automated way.
 - Create games between UDAI vs 1,2 or 3 Blizzard AI, and see who wins.
 - Create games between 2 or more UDAIs and watch the battle safely :popcorn:.
 - Load a single player saved game, and let a UDAI take control and play instead of you, to see how it reacts in this specific situation.
