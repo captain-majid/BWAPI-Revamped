@@ -48,7 +48,7 @@ Stork [**here**](https://youtu.be/nOR70jmPu5I?t=94) was playing vs Quatari bot (
 [![BR](https://img.youtube.com/vi/vmKHsCGFMa0/maxresdefault.jpg)](http://www.youtube.com/watch?v=vmKHsCGFMa0)
 [![BR](https://img.youtube.com/vi/eFTxQG2KcV4/maxresdefault.jpg)](http://www.youtube.com/watch?v=eFTxQG2KcV4)
 
-# [Download](https://github.com/captain-majid/CoachAI/releases/download/v4.27/BWAPI.Revamped.7z): :arrow_down:
+# [Download](https://github.com/captain-majid/BWAPI-Revamped/releases/download/v1.1/BWAPI.Revamped.7z): :arrow_down:
 - Just extract the above 7-zip file contents inside Starcraft v1.16 folder, then run “StarCraft ChaosLauncher.exe”.
 - Don’t forget to watch the 2 Tutorials vids above.
 <details><summary>If you don't have SC v1.16:</summary>
