@@ -1,4 +1,4 @@
-# BWAPI Revamped: Play vs smarter AI
+# BWAPI Revamped: Play w/ smarter SC1 AI
 <p align="center">
 <img src="https://preview.redd.it/awj4rlb2hu881.png?width=315&format=png&auto=webp&s=45ba07acb12df97cb22c45473f8fa35f5ee7fd23"></p>
 <!-- ![BR2](https://preview.redd.it/fzjosx9l38481.png?width=1057&format=png&auto=webp&s=0dcf5bf3153e0db292e371e7fbbf1fa82814d8fa) -->
