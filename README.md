@@ -48,12 +48,10 @@ Stork [**here**](https://youtu.be/nOR70jmPu5I?t=94) was playing vs Quatari bot (
 [![BR](https://img.youtube.com/vi/vmKHsCGFMa0/maxresdefault.jpg)](http://www.youtube.com/watch?v=vmKHsCGFMa0)
 [![BR](https://img.youtube.com/vi/eFTxQG2KcV4/maxresdefault.jpg)](http://www.youtube.com/watch?v=eFTxQG2KcV4)
 
-# [Download](https://github.com/captain-majid/BWAPI-Revamped/releases/download/v1.1/BWAPI.Revamped.7z): :arrow_down:
-<details><summary>If you don't have SC v1.16:</summary>
-  
-- A mini ver can still be downloaded from ICCUP [here](http://files.theabyss.ru/sc/starcraft.zip).
-- A full version [here](http://www.staredit.net/topic/17625/).
-</details>
+# [Download](https://github.com/captain-majid/BWAPI-Revamped/releases/download/v1.2/BWAPI.Revamped.exe): :arrow_down:
+- If you don't have SC v1.16:
+1. A mini ver can still be downloaded from ICCUP [here](http://files.theabyss.ru/sc/starcraft.zip).
+2. A full version [here](http://www.staredit.net/topic/17625/).
 
 - Copy "BWAPI Revamped.exe" inside Starcraft v1.16 folder (where StarCraft.mpq exists), then double-click it.
 - Use “StarCraft ChaosLauncher.exe” to launch the game, don’t forget to watch the 2 Tutorials vids above.
