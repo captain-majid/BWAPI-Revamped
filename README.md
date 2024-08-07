@@ -57,7 +57,6 @@ Stork [**here**](https://youtu.be/nOR70jmPu5I?t=94) was playing vs Quatari bot (
 - Copy "BWAPI Revamped.exe" inside Starcraft v1.16 folder (where StarCraft.mpq exists), then double-click it.
 - Use “StarCraft ChaosLauncher.exe” to launch the game, don’t forget to watch the 2 Tutorials vids above.
 
-
 # Chat with someone now ? :speech_balloon:
 - [![Discord Banner 3](https://discordapp.com/api/guilds/629001720336482324/widget.png?style=banner3)](https://discord.gg/F3Ds69M)
 - https://www.reddit.com/r/CoachAI
